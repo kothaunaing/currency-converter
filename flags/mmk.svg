@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 48 48">
+  <path fill="#FECB00" d="M2,11.449c14.667-5.02,29.333,5.02,44,0c0,8.367,0,16.734,0,25.102c-14.667,5.02-29.333-5.02-44,0C2,28.184,2,19.816,2,11.449z" />
+  <path fill="#34B233" d="M2,20.138c14.667-5.02,29.333,5.02,44,0c0,5.471,0,10.942,0,16.413c-14.667,5.02-29.333-5.02-44,0C2,31.08,2,25.609,2,20.138z" />
+  <path fill="#EA2839" d="M2,27.862c14.667-5.02,29.333,5.02,44,0c0,2.896,0,5.793,0,8.689c-14.667,5.02-29.333-5.02-44,0C2,33.654,2,30.758,2,27.862z" />
+  <path fill="#FFF" d="M27.48,26.555c1.877-1.019,3.754-2.078,5.632-3.239c-2.32-0.193-4.641-0.542-6.961-0.927c-0.717-2.25-1.434-4.503-2.151-6.756c-0.717,2.008-1.434,4.015-2.151,6.027c-2.32-0.386-4.641-0.735-6.961-0.927c1.877,1.473,3.754,3.047,5.632,4.661c-0.717,2.017-1.434,4.04-2.151,6.072c1.877-1.059,3.754-2.054,5.632-3.05c1.877,1.638,3.754,3.276,5.632,4.851C28.915,31.038,28.198,28.799,27.48,26.555z M24,24.883L24,24.883L24,24.883L24,24.883z" />
+  <linearGradient id="HzehHyEMPDCQ~xpZw0oFaa" x1="2" x2="46" y1="26" y2="26" gradientTransform="matrix(1 0 0 -1 0 50)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffeded" stop-opacity="0" />
+    <stop offset=".237" stop-color="#ffeded" stop-opacity=".3" />
+    <stop offset=".451" stop-color="#ffeded" stop-opacity="0" />
+    <stop offset=".644" stop-color="#ffeded" stop-opacity="0" />
+    <stop offset=".809" stop-color="#ffeded" stop-opacity=".4" />
+    <stop offset="1" stop-color="#ffeded" stop-opacity="0" />
+  </linearGradient>
+  <path fill="url(#HzehHyEMPDCQ~xpZw0oFaa)" d="M2,11.449c14.667-5.02,29.333,5.02,44,0c0,8.367,0,16.734,0,25.102c-14.667,5.02-29.333-5.02-44,0C2,28.184,2,19.816,2,11.449z" opacity=".5" />
+  <linearGradient id="HzehHyEMPDCQ~xpZw0oFab" x1="2" x2="46" y1="26" y2="26" gradientTransform="matrix(1 0 0 -1 0 50)" gradientUnits="userSpaceOnUse">
+    <stop offset=".004" stop-opacity=".8" />
+    <stop offset=".046" stop-color="#00030a" stop-opacity=".637" />
+    <stop offset=".144" stop-color="#00091d" stop-opacity=".262" />
+    <stop offset=".212" stop-color="#000b24" stop-opacity="0" />
+    <stop offset=".359" stop-color="#000b24" stop-opacity=".018" />
+    <stop offset=".382" stop-color="#00091e" stop-opacity=".08" />
+    <stop offset=".476" stop-color="#000208" stop-opacity=".335" />
+    <stop offset=".537" stop-opacity=".5" />
+    <stop offset=".63" stop-color="#000511" stop-opacity=".247" />
+    <stop offset=".715" stop-color="#000b24" stop-opacity=".018" />
+    <stop offset=".83" stop-color="#000b24" stop-opacity=".018" />
+    <stop offset=".886" stop-color="#00091d" stop-opacity=".245" />
+    <stop offset=".97" stop-color="#000309" stop-opacity=".58" />
+    <stop offset="1" stop-opacity=".7" />
+  </linearGradient>
+  <path fill="url(#HzehHyEMPDCQ~xpZw0oFab)" d="M2,11.449c14.667-5.02,29.333,5.02,44,0c0,8.367,0,16.734,0,25.102c-14.667,5.02-29.333-5.02-44,0C2,28.184,2,19.816,2,11.449z" opacity=".81" />
+</svg>
