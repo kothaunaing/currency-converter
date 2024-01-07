@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="256" height="256">
+  <defs>
+    <linearGradient id="BHoozSN9Rqh0yAB~RR9Lra" x1="2" x2="46" y1="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#fff" stop-opacity="0" />
+      <stop offset=".06" stop-color="#fffefe" stop-opacity=".03" />
+      <stop offset=".09" stop-color="snow" stop-opacity=".17" />
+      <stop offset=".11" stop-color="#fff6f6" stop-opacity=".29" />
+      <stop offset=".14" stop-color="#fff3f3" stop-opacity=".38" />
+      <stop offset=".18" stop-color="#fff2f2" stop-opacity=".45" />
+      <stop offset=".21" stop-color="#fff0f0" stop-opacity=".49" />
+      <stop offset=".25" stop-color="#fff0f0" stop-opacity=".5" />
+      <stop offset=".38" stop-color="snow" stop-opacity=".16" />
+      <stop offset=".44" stop-color="#fff" stop-opacity="0" />
+      <stop offset=".62" stop-color="#fff" stop-opacity="0" />
+      <stop offset=".66" stop-color="#fff" stop-opacity=".1" />
+      <stop offset=".71" stop-color="#fff" stop-opacity=".21" />
+      <stop offset=".75" stop-color="#fff" stop-opacity=".28" />
+      <stop offset=".78" stop-color="#fff" stop-opacity=".3" />
+      <stop offset=".83" stop-color="#fff" stop-opacity=".29" />
+      <stop offset=".86" stop-color="#fff" stop-opacity=".25" />
+      <stop offset=".89" stop-color="#fff" stop-opacity=".19" />
+      <stop offset=".92" stop-color="#fff" stop-opacity=".11" />
+      <stop offset=".95" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="BHoozSN9Rqh0yAB~RR9Lrb" x1="2" x2="46" y1="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5c0001" stop-opacity=".4" />
+      <stop offset=".18" stop-color="#7d0001" stop-opacity="0" />
+      <stop offset=".36" stop-color="#000b24" stop-opacity=".02" />
+      <stop offset=".54" stop-opacity=".2" />
+      <stop offset=".74" stop-color="#000b24" stop-opacity=".02" />
+      <stop offset=".84" stop-color="#5c0000" stop-opacity=".02" />
+      <stop offset=".9" stop-color="#5c0000" stop-opacity=".08" />
+      <stop offset=".98" stop-color="#5c0000" stop-opacity=".25" />
+      <stop offset="1" stop-color="#5c0000" stop-opacity=".3" />
+    </linearGradient>
+  </defs>
+  <g data-name="Canada">
+    <path fill="red" d="M2,11.45A29.37,29.37,0,0,1,13,10l.45.54c7,.37,14.07,2.4,21.1,2.78l.45-.5a29.57,29.57,0,0,0,11-1.41v25.1A29.37,29.37,0,0,1,35,38l-.45-.54c-7-.37-14.07-2.4-21.1-2.78l-.45.5A29.57,29.57,0,0,0,2,36.55Z" />
+    <path fill="#fff" d="M13,10c7.33.31,14.67,2.51,22,2.82V38c-7.33-.31-14.67-2.51-22-2.82ZM24.41,34.69c-.07-1.52-.14-3-.2-4.55,0-.28.17-.48.41-.45l.09,0c1.32.49,2.63,1,3.94,1.43-.18-.58-.35-1.17-.53-1.75a.34.34,0,0,1,.09-.37c1.44-1.11,2.88-2.25,4.32-3.44l-1-.62a.39.39,0,0,1-.15-.43c.28-1,.57-1.93.85-2.9-.83.12-1.66.22-2.48.31a.36.36,0,0,1-.34-.25L29,20.33,27,22.41a.27.27,0,0,1-.42-.06A.42.42,0,0,1,26.5,22c.31-1.78.63-3.57.94-5.35l-1.5.74a.32.32,0,0,1-.41-.19v0C25,16,24.51,14.76,24,13.54l-1.52,3.15a.26.26,0,0,1-.4.09l0,0-1.5-1.23c.31,1.88.63,3.77.94,5.65a.29.29,0,0,1-.24.36A.32.32,0,0,1,21,21.4l-1.94-2.68L18.57,20a.26.26,0,0,1-.34.15c-.82-.31-1.65-.61-2.48-.9.28,1,.57,2.06.85,3.09a.32.32,0,0,1-.15.39l-1,.42c1.44,1.46,2.88,3,4.32,4.53a.42.42,0,0,1,.09.4c-.18.53-.35,1.06-.53,1.59,1.31-.07,2.62-.11,3.94-.15a.54.54,0,0,1,.5.49.41.41,0,0,1,0,.11c-.06,1.49-.13,3-.2,4.48Z" />
+    <path fill="url(#BHoozSN9Rqh0yAB~RR9Lra)" d="M35,12.86c-7.33-.31-14.67-2.51-22-2.82A29.37,29.37,0,0,0,2,11.45v25.1a29.57,29.57,0,0,1,11-1.41c7.33.31,14.67,2.51,22,2.82a29.37,29.37,0,0,0,11-1.41V11.45A29.57,29.57,0,0,1,35,12.86Z" opacity=".62" />
+    <path fill="url(#BHoozSN9Rqh0yAB~RR9Lrb)" d="M35,12.86c-7.33-.31-14.67-2.51-22-2.82A29.37,29.37,0,0,0,2,11.45v25.1a29.57,29.57,0,0,1,11-1.41c7.33.31,14.67,2.51,22,2.82a29.37,29.37,0,0,0,11-1.41V11.45A29.57,29.57,0,0,1,35,12.86Z" opacity=".9" />
+  </g>
+</svg>
