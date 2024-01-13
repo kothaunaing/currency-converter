@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 48 48">
+  <path fill="#a51931" d="M2,11.4c14.7-5,29.3,5,44,0c0,8.4,0,16.7,0,25.1c-14.7,5-29.3-5-44,0C2,28.2,2,19.8,2,11.4z" />
+  <path fill="#f4f5f8" d="M2,15.6c14.7-5,29.3,5,44,0c0,5.6,0,11.2,0,16.7c-14.7,5-29.3-5-44,0C2,26.8,2,21.2,2,15.6z" />
+  <path fill="#2d2a4a" d="M2,19.8c14.7-5,29.3,5,44,0c0,2.8,0,5.6,0,8.4c-14.7,5-29.3-5-44,0C2,25.4,2,22.6,2,19.8z" />
+  <linearGradient id="pCmCEvZglNUrnDkiQzm9Ha" x1="2" x2="46" y1="26" y2="26" gradientTransform="matrix(1 0 0 -1 0 50)" gradientUnits="userSpaceOnUse">
+    <stop offset=".004" stop-opacity=".8" />
+    <stop offset=".097" stop-color="#000615" stop-opacity=".393" />
+    <stop offset=".188" stop-color="#000b24" stop-opacity="0" />
+    <stop offset=".377" stop-color="#000b24" stop-opacity=".018" />
+    <stop offset=".414" stop-color="#000819" stop-opacity=".135" />
+    <stop offset=".492" stop-color="#000206" stop-opacity=".377" />
+    <stop offset=".547" stop-opacity=".55" />
+    <stop offset=".613" stop-color="#000207" stop-opacity=".371" />
+    <stop offset=".712" stop-color="#00091c" stop-opacity=".102" />
+    <stop offset=".743" stop-color="#000b24" stop-opacity=".018" />
+    <stop offset=".816" stop-color="#000b24" stop-opacity=".018" />
+    <stop offset=".905" stop-color="#000615" stop-opacity=".407" />
+    <stop offset="1" stop-opacity=".82" />
+  </linearGradient>
+  <path fill="url(#pCmCEvZglNUrnDkiQzm9Ha)" d="M2,11.4c14.7-5,29.3,5,44,0c0,8.4,0,16.7,0,25.1c-14.7,5-29.3-5-44,0C2,28.2,2,19.8,2,11.4z" opacity=".8" />
+  <linearGradient id="pCmCEvZglNUrnDkiQzm9Hb" x1="2" x2="46" y1="26" y2="26" gradientTransform="matrix(1 0 0 -1 0 50)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff" stop-opacity="0" />
+    <stop offset=".227" stop-color="#fff" stop-opacity=".22" />
+    <stop offset=".4" stop-color="#fff" stop-opacity="0" />
+    <stop offset=".587" stop-color="#fff" stop-opacity="0" />
+    <stop offset=".79" stop-color="#fff" stop-opacity=".23" />
+    <stop offset=".996" stop-color="#fff" stop-opacity="0" />
+  </linearGradient>
+  <path fill="url(#pCmCEvZglNUrnDkiQzm9Hb)" d="M2,11.4c14.7-5,29.3,5,44,0c0,8.4,0,16.7,0,25.1c-14.7,5-29.3-5-44,0C2,28.2,2,19.8,2,11.4z" opacity=".8" />
+</svg>

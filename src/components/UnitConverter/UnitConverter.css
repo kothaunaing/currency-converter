@@ -1,0 +1,32 @@
+/** @format */
+
+.UnitConverter {
+  width: 90%;
+}
+
+.high-div {
+  height: 46px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.converter-item {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  padding: 6px 0 6px 0;
+}
+
+.small-font {
+  font-size: 0.92em;
+  color: gray;
+}
